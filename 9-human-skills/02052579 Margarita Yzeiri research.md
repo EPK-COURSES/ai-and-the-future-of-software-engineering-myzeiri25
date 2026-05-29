@@ -1,3 +1,9 @@
+/09-human-skills
+   /02052579-Margarita-Yzeiri
+      research.md
+      reflection.md
+      references.md
+
 # Human Skills That Remain Important in the AI Era
 
 ## Introduction
